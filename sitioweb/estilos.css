@@ -1,0 +1,49 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing:border-box
+
+}
+body{font-family: 'Julius Sans One', sans-serif;color: black;
+    font-family: 'Thasadith', sans-serif;color: black;
+	
+}
+header{
+	
+}
+nav ul{text-decoration: none;
+	
+}
+nav ul li{text-decoration: none;
+	
+}
+nav ul li a{text-decoration: none;
+	
+}
+a{color: black; text-decoration: none;
+}
+.icon { }
+section{
+
+}
+.principal{
+}
+.principal div img{
+}
+.secundario{
+}
+.secundario div{
+}
+.secundario div a img{
+}
+h4{
+}
+footer{
+}
+.flex-container{display: flex;flex-direction: row;}
+footer img{
+}
+
+@media (max-width: 480px) { 
+
+}
